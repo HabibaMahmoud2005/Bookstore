@@ -1,0 +1,14 @@
+Check this youtube video : https://youtu.be/G3e-cpL7ofc?si=AiKMaxSkci1IWMP2
+
+Check these articles and websites :
+1) https://www.w3schools.com/html/default.asp
+2) https://www.smashingmagazine.com/2009/11/zen-coding-a-new-way-to-write-html-code/
+3) https://www.w3schools.com/html/html_exercises.asp
+4) https://www.templateroller.com/template/2636667/css-selectors-cheat-sheet.html#docpage-2
+5) https://css-tricks.com/almanac/properties/p/position/
+6) https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+7) https://css-tricks.com/snippets/css/complete-guide-grid/
+
+Check :
+1) https://flexboxfroggy.com/
+2) https://cssgridgarden.com/

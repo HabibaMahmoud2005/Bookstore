@@ -1,0 +1,103 @@
+#Heading1 {
+    font-family: 'Pacifico';
+    font-size :x-large;
+    color: #ea4c89;
+    text-shadow: 2px 2px 4px rgba(98, 28, 84, 0.5);
+    display :inline;
+}
+#button-login {
+    height: 28px;
+    background-color: #f74f8f;
+    border-radius: 10px;
+    border-style: solid;
+    text-align: center;
+    font-weight: 600;
+    border-color: #f74f8f;
+    transition: background-color 0.15s;
+   }
+#button-login:hover {
+  background-color: rgba(255, 255, 255, 0.85);
+  cursor: pointer;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.contactsP{
+    font-weight: 600;
+    font-size: larger;
+    margin-bottom: 0px;
+}
+.mail{
+    color:white;
+    display:block;
+    margin-left: 5px;
+}
+#feedbackBox{
+    border-style: solid;
+    border-radius: 10px;
+    height:28px;
+    border:#ea4c89;
+    margin-left: 5px;
+    padding-left:40px;
+}
+footer{
+    color: white;
+    padding-bottom: 8px;
+    border-style: solid;
+    background-color: rgba(247, 79, 143, 0.9);
+    border-radius: 10px;
+    padding: 20px;
+    width: 100%;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+nav button{
+    height: 28px;
+    background-color:white;
+    border-radius: 10px;
+    text-align: center;
+    border-style: solid;
+    font-weight: 600;
+    border-color: #f74f8f;
+    transition: background-color 0.15s;
+    margin-left: 8px;
+    transition: background-color .15s;
+}
+nav button:hover {
+    background-color: #f74f8f;
+    cursor: pointer;
+}
+nav{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.homeimg {
+    object-position: left;
+    height:300px;
+    width:300px;
+    border-radius: 20px;
+}
+.homeimg:hover {
+    opacity: .8;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.welcome{
+    font-weight: 600;
+    font-size:x-large;
+    text-shadow: 1px 1px 1px rgba(235, 59, 150, 0.5);
+    animation: pulse 5s infinite;
+}
+@keyframes pulse {
+    0% {
+      opacity: 0;
+      }
+     100% {
+     opacity: 1;
+     }
+}
