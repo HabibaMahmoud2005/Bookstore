@@ -1,6 +1,6 @@
 # 📚 Bookstore Website 
 
-This is a multi-page bookstore website built using **HTML**, **CSS**, and **JavaScript**, designed as part of a web development assignment. The project showcases a fictional library with interactive features such as form validation.
+This is a multi-page bookstore website built using **HTML**, **CSS**, and **JavaScript**, designed as part of a web development assignment. The assignment showcases a fictional library with interactive features such as form validation.
 
 ---
 
