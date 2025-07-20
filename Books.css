@@ -54,3 +54,9 @@ header {
     font-weight: bold;
     margin: 10px 0 5px;
 }
+.Available{
+    color:green;
+}
+.not-available{
+    color:red;
+}
